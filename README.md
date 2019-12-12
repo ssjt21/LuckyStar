@@ -20,4 +20,4 @@
 - 消息弹框，弹框按钮，ICON等
 
 
-！[img](./Lucky使用教程.gif)
+![img](./Lucky使用教程.gif)
