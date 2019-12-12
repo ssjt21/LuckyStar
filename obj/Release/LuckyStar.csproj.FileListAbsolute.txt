@@ -1,0 +1,13 @@
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\bin\Release\LuckyStar.exe.config
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\bin\Release\LuckyStar.exe
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\bin\Release\LuckyStar.pdb
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.csprojResolveAssemblyReference.cache
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.Form1.resources
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.Properties.Resources.resources
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.csproj.GenerateResource.Cache
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.csproj.CoreCompileInputs.cache
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.exe
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.pdb
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\bin\Release\CSkin.dll
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\bin\Release\CSkin.xml
+C:\Users\xuqiu\source\repos\Form1_learn\LuckyStar\obj\Release\LuckyStar.FormSetConfig.resources
